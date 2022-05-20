@@ -1,0 +1,10 @@
+/Users/macover/Desktop/Regresion Lineal/Regresion Lineal/bin/Debug/Regresion Lineal.exe.config
+/Users/macover/Desktop/Regresion Lineal/Regresion Lineal/bin/Debug/Regresion Lineal.exe
+/Users/macover/Desktop/Regresion Lineal/Regresion Lineal/bin/Debug/Regresion Lineal.pdb
+/Users/macover/Desktop/Regresion Lineal/Regresion Lineal/obj/Debug/Regresion Lineal.csproj.AssemblyReference.cache
+/Users/macover/Desktop/Regresion Lineal/Regresion Lineal/obj/Debug/Regresion_Lineal.Form1.resources
+/Users/macover/Desktop/Regresion Lineal/Regresion Lineal/obj/Debug/Regresion_Lineal.Properties.Resources.resources
+/Users/macover/Desktop/Regresion Lineal/Regresion Lineal/obj/Debug/Regresion Lineal.csproj.GenerateResource.cache
+/Users/macover/Desktop/Regresion Lineal/Regresion Lineal/obj/Debug/Regresion Lineal.csproj.CoreCompileInputs.cache
+/Users/macover/Desktop/Regresion Lineal/Regresion Lineal/obj/Debug/Regresion Lineal.exe
+/Users/macover/Desktop/Regresion Lineal/Regresion Lineal/obj/Debug/Regresion Lineal.pdb
