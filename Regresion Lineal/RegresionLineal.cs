@@ -26,6 +26,11 @@ namespace Regresion_Lineal
             this.m = ((this.n * this.getSumatoriaXY()) - (this.getSumatoriaX() * this.getSumatoriaY())) / (this.n * this.getSumatoriaX2() - Math.Pow(this.getSumatoriaX(), 2));
             return m;
         }
+        public double getB() 
+        {
+            this.b = (this.getSumatoriaY() - (this.getM() * this.getSumatoriaX()) / this.n);
+            return b;
+        }
 
         public double productoXY(double x, double y)
         {

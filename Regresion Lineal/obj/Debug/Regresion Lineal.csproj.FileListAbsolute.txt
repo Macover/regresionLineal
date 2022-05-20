@@ -8,3 +8,14 @@
 /Users/macover/Desktop/Regresion Lineal/Regresion Lineal/obj/Debug/Regresion Lineal.csproj.CoreCompileInputs.cache
 /Users/macover/Desktop/Regresion Lineal/Regresion Lineal/obj/Debug/Regresion Lineal.exe
 /Users/macover/Desktop/Regresion Lineal/Regresion Lineal/obj/Debug/Regresion Lineal.pdb
+C:\Users\Macov\OneDrive\Escritorio\regresionLineal\Regresion Lineal\bin\Debug\Regresion Lineal.exe.config
+C:\Users\Macov\OneDrive\Escritorio\regresionLineal\Regresion Lineal\bin\Debug\Regresion Lineal.exe
+C:\Users\Macov\OneDrive\Escritorio\regresionLineal\Regresion Lineal\bin\Debug\Regresion Lineal.pdb
+C:\Users\Macov\OneDrive\Escritorio\regresionLineal\Regresion Lineal\obj\Debug\Regresion Lineal.csproj.AssemblyReference.cache
+C:\Users\Macov\OneDrive\Escritorio\regresionLineal\Regresion Lineal\obj\Debug\Regresion Lineal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Macov\OneDrive\Escritorio\regresionLineal\Regresion Lineal\obj\Debug\Regresion_Lineal.Form1.resources
+C:\Users\Macov\OneDrive\Escritorio\regresionLineal\Regresion Lineal\obj\Debug\Regresion_Lineal.Properties.Resources.resources
+C:\Users\Macov\OneDrive\Escritorio\regresionLineal\Regresion Lineal\obj\Debug\Regresion Lineal.csproj.GenerateResource.cache
+C:\Users\Macov\OneDrive\Escritorio\regresionLineal\Regresion Lineal\obj\Debug\Regresion Lineal.csproj.CoreCompileInputs.cache
+C:\Users\Macov\OneDrive\Escritorio\regresionLineal\Regresion Lineal\obj\Debug\Regresion Lineal.exe
+C:\Users\Macov\OneDrive\Escritorio\regresionLineal\Regresion Lineal\obj\Debug\Regresion Lineal.pdb
