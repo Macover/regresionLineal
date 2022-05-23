@@ -28,8 +28,10 @@ namespace Regresion_Lineal
         }
         public double getB() 
         {
-            this.b = (this.getSumatoriaY() - (this.getM() * this.getSumatoriaX()) / this.n);
-            return b;
+            double numerador = ((this.getSumatoriaY() * this.getSumatoriaX2()) - (this.getSumatoriaX() * this.getSumatoriaXY()));
+            double denomidador = (this.n * this.getSumatoriaX2()) - (Math.Pow(this.getSumatoriaX(), 2));            
+            this.b = numerador / denomidador;
+            return this.b;
         }
 
         public double productoXY(double x, double y)
